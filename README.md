@@ -1,7 +1,7 @@
 # Trabalho de Tecnologias Emergentes - Professor Alex Pereira
 
-- ### Trabalho da Matéria de Tecnologias Emergentes da Faculdade Alfa
+- ### Trabalho da Matéria de Tecnologias 
 
-- ### Aluna: Carolina Aguera
+- ### Mariana da Silva Almeida
 
 <img src="https://www.alfaumuarama.edu.br/fau/images/logo_novo.png?v=1658881864">
